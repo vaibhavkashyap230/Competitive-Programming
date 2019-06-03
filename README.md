@@ -10,3 +10,5 @@ https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem (J
 
 
 https://www.hackerrank.com/challenges/library-fine/problem (Library Fine)
+
+https://www.hackerrank.com/challenges/2d-array/problem (2D Array- DS)
